@@ -16,7 +16,7 @@ Project Information
 <pre data-prefix="#"><code>User Management Application part of Internship task assigned by Innobyte Services. <br /> Developed using ReactJs, TailwindCSS, Vite, NodeJs & ExpressJs.</code></pre> 
   <pre data-prefix="$"><code  className="text-success">Developed by : Hrishikesh Bhorde</code></pre> 
   <pre data-prefix=">" ><code className="text-warning">Email id : bhordehrishikesh@gmail.com</code></pre> 
-  <pre data-prefix=">" ><code className="text-blue-500">GitHub Repository Link</code></pre>
+  <pre data-prefix=">" ><code className="text-blue-500"><a href="https://github.com/Hrishikesh-Bhorde/UserManagementApp" target="_blank">Goto GitHub Repository</a></code></pre>
   <pre data-prefix="$" ><code className="text-blue-500"><a href="https://www.github.com/Hrishikesh-Bhorde" target="_blank">Hrishikesh Bhorde <i className="bi bi-github text-gray-200"></i></a></code></pre>
 </div>
 
